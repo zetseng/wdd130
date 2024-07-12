@@ -51,7 +51,7 @@ img {
 p {
     padding: 0;
 }
-/* Class Selectors*/
+/* Class Selectors */
 .box {
     margin: 1rem;
     border: 1px solid rgba(0, 0, 0, .1);
@@ -62,6 +62,7 @@ p {
 aside {
     width: 22em;
     text-align: center;
+    position: relative;
 }
 aside h2 {
     position: absolute;
